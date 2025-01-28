@@ -15,34 +15,23 @@ cd user-management-dashboard
 2. Install Dependencies
 Ensure you have Node.js and npm installed on your machine. Run the following command to install the required dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 This will install all the necessary packages defined in the package.json file.
 
 3. Start the Development Server
 Once the dependencies are installed, start the development server using:
 
-bash
-Copy
-Edit
 npm start
 This will launch the app in your browser. By default, the app should be accessible at http://localhost:3000.
 
 4. Open the Project
 After starting the server, open your browser and navigate to:
 
-arduino
-Copy
-Edit
 http://localhost:3000
 Directory Structure
 Here is an overview of the project directory structure:
 
-graphql
-Copy
-Edit
 user-management-dashboard/
 ├── src/
 │   ├── components/
